@@ -29,7 +29,7 @@
     "broccoli-persistent-filter": "^1.2.0",
     "cheerio": "^0.22.0",
     "json-stable-stringify": "^1.0.1",
-    "lodash": "^4.17.10"
+    "lodash": "4.17.10"
   },
   "devDependencies": {
     "broccoli": "^1.1.4",
